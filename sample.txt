@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+welcome to source code
+management using hit 
+=======
+welcome to rvrjc
+>>>>>>> 906841f9d1c44f1a0c9076589f6749641a6f763a
